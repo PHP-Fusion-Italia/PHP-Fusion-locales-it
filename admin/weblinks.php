@@ -8,7 +8,7 @@
 | Version		: 1.00.00
 | Author		: Italian Staff PHP-Fusion Italy
 | Last Update	: 9 marzo 2010
-| Copyright©	: 2002 - 2010 Nick Jones
+| CopyrightÂ©	: 2002 - 2010 Nick Jones
 | Web URL	: http://www.php-fusion.co.uk/
 +--------------------------------------------------------*/
 
