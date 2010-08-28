@@ -30,4 +30,5 @@ $locale['413'] = "Legenda:";
 $locale['414'] = "Non installato";
 $locale['415'] = "Installato";
 $locale['416'] = "Disponibile aggiornamento";
+$locale['417'] = "Nessuna infusion disponibile.";
 ?>

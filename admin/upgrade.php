@@ -1,5 +1,5 @@
 <?php
-
+//TODO
 /*-------------------------------------------------------+
 | Name CMS	: PHP-Fusion CMS v7.00.07
 | File Directory	: root/locale/Italian/admin/
@@ -15,12 +15,17 @@
 $locale['400'] = "Aggiornamento";
 //No upgrade
 $locale['401'] = "Non &egrave; disponibile alcun aggiornamento del database.";
-// Upgrade available
-$locale['402'] = "Il database deve esser aggiornato.";
-$locale['403'] = "Aggiorna";
-// Upgrade performed
-$locale['404'] = "Aggiornamento effettuato!";
-$locale['405'] = "Oops, qualcosa &egrave; andato storto. Consulta il file administration/upgrade.php e prova ad applicare le modifiche al database manualmente, oppure chiedi aiuto sul forum di supporto.";
+// Stage 6 - User Field Categories
+$locale['420'] = "Contact Information";
+$locale['421'] = "Miscellaneous Information";
+$locale['422'] = "Options";
+$locale['423'] = "Statistics";
+$locale['430'] = "User Field Categories";
+$locale['432'] = "User Management";
+$locale['434'] = "Items per Page";
+$locale['435'] = "Security";
+$locale['436'] = "News Settings";
+$locale['437'] = "Downloads Settings";
 // Upgrade locales
 $locale['500'] = '';
 ?>

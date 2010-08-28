@@ -20,6 +20,12 @@ $locale['402'] = "Download presenti";
 $locale['410'] = "Download aggiunto";
 $locale['411'] = "Download aggiornato";
 $locale['412'] = "Download eliminato";
+$locale['413'] = "&Egrave; stato riscontrato un errore:";
+$locale['414'] = "Il nome del file non &egrave; valido.";
+$locale['415'] = "Il file non deve eccedere %s di dimensione.";
+$locale['416'] = "Il file deve necessariamente avere estensione: %s.";
+$locale['417'] = "Il campo titolo &egrave; obbligatorio.";
+$locale['418'] = "Il campo file o URL &egrave; obbligatorio.";
 // Downloads form
 $locale['420'] = "Titolo:";
 $locale['421'] = "Descrizione:";
@@ -31,6 +37,10 @@ $locale['426'] = "Versione:";
 $locale['427'] = "Dimensione:";
 $locale['428'] = "Salva download";
 $locale['429'] = "Aggiorna data pubblicazione";
+$locale['430'] = "Upload:";
+$locale['431'] = "Elimina";
+$locale['432'] = "Calcola dimensione del file";
+$locale['433'] = "Dimensione massima: %s; Estensioni permesse: %s";
 // Current Downloads
 $locale['440'] = "Scarica [Clicca per testare]";
 $locale['441'] = "Opzioni";

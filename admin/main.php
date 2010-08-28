@@ -15,10 +15,11 @@
 // Admin Links
 $locale['200'] = $settings['sitename']." Pannello Amministrazione";
 $locale['ac00'] = "Amministrazione";
-$locale['ac01'] = "Amministra contenuto";
+$locale['ac01'] = "Amministra contenuti";
 $locale['ac02'] = "Amministra utenti";
 $locale['ac03'] = "Amministra sistema";
-$locale['ac04'] = "Amministra infusions";
+$locale['ac04'] = "Impostazioni";
+$locale['ac04'] = "Infusions (Addon)";
 $locale['201'] = "Gestione amministratori";
 $locale['202'] = "Categorie articoli";
 $locale['203'] = "Gestione articoli";
@@ -58,11 +59,19 @@ $locale['236'] = "Gestione bbcode";
 $locale['237'] = "Gestione smileys";
 $locale['238'] = "Gestione campi utente";
 $locale['239'] = "Gestione livelli forum";
+$locale['240'] = "Categorie campi utente";
+$locale['241'] = "Notizie";
+$locale['242'] = "Gestione utenti";
+$locale['243'] = "Downloads";
+$locale['244'] = "Elementi per pagina";
+$locale['245'] = "Banners";
+$locale['246'] = "Sicurezza";
+$locale['247'] = "Gestione utenti";
 // Site Information
 $locale['250'] = "Informazioni";
 $locale['251'] = "Utenti registrati:";
 $locale['252'] = "Utenti non attivati:";
-$locale['253'] = "Utenti esclusi:";
+$locale['253'] = "Utenti bannati:";
 $locale['254'] = "Notizie ricevute:";
 $locale['255'] = "Articoli ricevuti:";
 $locale['256'] = "Link ricevuti:";
@@ -71,4 +80,7 @@ $locale['258'] = "Messaggi shoutbox:";
 $locale['259'] = "Messaggi forum:";
 $locale['260'] = "Immagini ricevute:";
 $locale['261'] = "Immagini totali:";
+$locale['262'] = "Utenti attivi:";
+$locale['263'] = "Utenti cancellati:";
+$locale['264'] = "Utenti inattivi:";
 ?>

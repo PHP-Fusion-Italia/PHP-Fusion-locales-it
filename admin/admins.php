@@ -46,6 +46,7 @@ $locale['445'] = "Seleziona tutto";
 $locale['446'] = "Deseleziona tutto";
 $locale['447'] = "Password amministrazione:";
 $locale['448'] = "Salva permessi di amministrazione";
+$locale['449'] = "Impostazioni";
 // Popup Error/Warning Messages
 $locale['460'] = "Eliminare questo amministratore?";
 // Remove Admin confirmation

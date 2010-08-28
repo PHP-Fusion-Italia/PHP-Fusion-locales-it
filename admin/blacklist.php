@@ -34,4 +34,7 @@ $locale['462'] = "Opzioni";
 $locale['463'] = "Modifica";
 $locale['464'] = "Elimina";
 $locale['465'] = "Nessuno oggetto inserito nella blacklist";
+$locale['466'] = "ND";
+$locale['467'] = "Admin";
+$locale['468'] = "Data";
 ?>

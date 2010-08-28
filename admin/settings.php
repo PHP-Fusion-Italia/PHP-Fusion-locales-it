@@ -1,5 +1,5 @@
 <?php
-
+//TODO
 /*-------------------------------------------------------+
 | Name CMS	: PHP-Fusion CMS v7.00.07
 | File Directory	: root/locale/Italian/admin/
@@ -46,6 +46,7 @@ $locale['453'] = "Formato data forum:";
 $locale['454'] = "Formato data header:";
 $locale['455'] = "-- Seleziona un formato --";
 $locale['456'] = "Fuso orario";
+$locale['457'] = "Formato data per Articoli e Notizie:";
 // Forum Settings
 $locale['500'] = "Forum";
 $locale['501'] = "Pannello ultimi argomenti attivi:";
@@ -66,17 +67,23 @@ $locale['521'] = "Blocca modifiche successive:";
 $locale['522'] = "(Impedisce agli utenti di modificare i propri messaggi dopo il loro inserimento)";
 $locale['523'] = "Ricontare messaggi utente";
 $locale['524'] = "[FATTO]";
+$locale['525'] = "Popular thread time threshold:";
+$locale['526'] = "(The timeframe for the popular threads panel)";
+$locale['527'] = "1 Week";
+$locale['528'] = "1 Month";
+$locale['529'] = "1 Year";
+$locale['530'] = "Forever";
 // Registration Settings
 $locale['550'] = "Registrazione";
 $locale['551'] = "Abilita sistema di registrazione?";
 $locale['552'] = "Usa verifica tramite email per la registrazione?";
 $locale['553'] = "Visualizza codice di validazione?";
-$locale['554'] = "Metodo visualizzazione codice:";
-$locale['555'] = "Immagine";
-$locale['556'] = "Testo";
 $locale['557'] = "Nuovi utenti attivati dall&#39;amministratore?";
 $locale['558'] = "Abilita condizioni di utilizzo?";
 $locale['559'] = "Condizioni di Utilizzo";
+$locale['560'] = "Login method:";
+$locale['561'] = "Cookies";
+$locale['562'] = "Sessions";
 // Photo Gallery Settings
 $locale['600'] = "Album Immagini";
 $locale['601'] = "Dimensione miniatura:";
@@ -110,7 +117,7 @@ $locale['656'] = "Numero di messaggi nello shoutbox:";
 $locale['657'] = "Modalit&agrave; manutenzione:";
 $locale['658'] = "Messaggio modalit&agrave; manutenzione:";
 $locale['659'] = "Filto parole indesiderate attivo?";
-$locale['660'] = "Intervallo flood:";
+$locale['660'] = "Intervallo flood (in secondi):";
 $locale['661'] = "Lascia vuoto per download/upload immediati dei backup.";
 $locale['662'] = "Usa TinyMCE HTML editor?";
 $locale['663'] = "Solo per articoli e notizie";
@@ -121,6 +128,19 @@ $locale['667'] = "SMTP password";
 $locale['668'] = "Permetti agli utenti di cambiare il tema";
 $locale['669'] = "Notizie per pagina";
 $locale['670'] = "Deve essere dispari";
+$locale['671'] = "Enable comment system?";
+$locale['672'] = "Enable ratings system?";
+$locale['673'] = "Hide user profiles from public:";
+$locale['674'] = "SMTP Port";
+$locale['675'] = "Maintenance level:";
+$locale['676'] = "Administrators";
+$locale['677'] = "Super Administrators";
+$locale['678'] = "Site Owner";
+$locale['679'] = "Enable visitor counter?";
+$locale['680'] = "Flood Auto Ban:";
+$locale['681'] = "Maintenance";
+$locale['682'] = "Flood Settings";
+$locale['683'] = "Security Settings";
 // Private Message Settings
 $locale['700'] = "Messaggi privati";
 $locale['701'] = "Limite messaggi in arrivo:";
@@ -149,4 +169,39 @@ $locale['855'] = "Anteprima banner";
 // Settings Error
 $locale['900'] = "Impostazioni aggiornate";
 $locale['901'] = "Errore aggiornamento database: le impostazioni non sono state aggiornate!";
+// Item per Page
+$locale['910'] = "Articles per page";
+$locale['911'] = "Downloads per page";
+$locale['912'] = "Links per page";
+// Downloads Settings
+$locale['930'] = "Maximum size uploads:";
+$locale['931'] = "Maximum file size in bytes";
+$locale['932'] = "Allowed file types:";
+$locale['933'] = "Separate each type with a comma";
+// News Settings
+$locale['950'] = "Image Upload";
+$locale['951'] = "Image link:";
+$locale['952'] = "Category";
+$locale['953'] = "News Item";
+$locale['954'] = "Thumb ratio:";
+$locale['955'] = "Original";
+$locale['956'] = "Square";
+$locale['957'] = "Image on Front-page";
+$locale['958'] = "Image on Read-more";
+$locale['959'] = "Uploaded Photo";
+$locale['960'] = "Forum Cat Image";
+// User Management
+$locale['1001'] = "Avatar ratio:";
+$locale['1002'] = "De-activation system enabled";
+$locale['1003'] = "Allowed period on inactivity:";
+$locale['1004'] = "Number of days inactive before the de-activation is started.$";
+$locale['1005'] = "Response before deactivation action:";
+$locale['1006'] = "Number of days to respond to deactivation notification email$";
+$locale['1007'] = "User Profile Settings";
+$locale['1008'] = "Avatar size:";
+$locale['1009'] = "Width x Height";
+$locale['1010'] = "Maximum image size (bytes):";
+$locale['1011'] = "Deactivation Action:";
+$locale['1012'] = "Anonymize Users";
+$locale['1013'] = "Delete Users";
 ?>

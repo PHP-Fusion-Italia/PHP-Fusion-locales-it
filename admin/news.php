@@ -1,5 +1,5 @@
 <?php
-
+//TODO
 /*-------------------------------------------------------+
 | Name CMS	: PHP-Fusion CMS v7.00.07
 | File Directory	: root/locale/Italian/admin/
@@ -20,6 +20,10 @@ $locale['402'] = "Modifica notizie";
 $locale['410'] = "Notizia aggiunta";
 $locale['411'] = "Notizia aggiornata";
 $locale['412'] = "Notizia eliminata";
+$locale['413'] = "Nome immagine non valido.";
+$locale['414'] = "L'immagine deve avere dimensione minore di %s.";
+$locale['415'] = "L'immagine deve essere di tipo GIF, JPEG o PNG.";
+$locale['416'] = "L'immagine non deve avere una risoluzione maggiore di %uw x %uh pixels.";
 // News form
 $locale['420'] = "Modifica";
 $locale['421'] = "Elimina";
@@ -40,6 +44,8 @@ $locale['435'] = "Abilita valutazioni";
 $locale['436'] = "Anteprima notizia";
 $locale['437'] = "Salva notizia";
 $locale['438'] = "[BOZZA]";
+$locale['439'] = "Immagine News";
+$locale['440'] = "Max. filesize: %s / Allowed filetypes: GIF, JPEG or PNG.";
 // Popup Error/Warning Messages
 $locale['450'] = "Specifica un oggetto";
 $locale['451'] = "Cancellare questa notizia?";
