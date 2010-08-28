@@ -14,9 +14,6 @@
 +--------------------------------------------------------*/
 
 $locale['uf_web'] = "Indirizzo web";
-
 $locale['uf_web_desc'] = "Indirizzo sito web";
-
 $locale['uf_web_001'] = "Visita";
-
 ?>

@@ -1,5 +1,4 @@
 <?php
-//TODO
 /*-------------------------------------------------------+
 | Name CMS	: PHP-Fusion CMS v7.00.07
 | File Directory	: root/locale/Italian/admin/
@@ -45,7 +44,7 @@ $locale['436'] = "Anteprima notizia";
 $locale['437'] = "Salva notizia";
 $locale['438'] = "[BOZZA]";
 $locale['439'] = "Immagine News";
-$locale['440'] = "Max. filesize: %s / Allowed filetypes: GIF, JPEG or PNG.";
+$locale['440'] = "Dimensione massima: %s / Formati consentiti: GIF, JPEG o PNG.";
 // Popup Error/Warning Messages
 $locale['450'] = "Specifica un oggetto";
 $locale['451'] = "Cancellare questa notizia?";

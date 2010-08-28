@@ -66,7 +66,9 @@ $locale['514'] = "Scrivi risposta";
 $locale['515'] = "Smetti di seguire l&#39;argomento";
 $locale['516'] = "Segui questo argomento";
 $locale['517'] = "Cancella messaggi";
+$locale['517a'] = "Sposta messaggi";
 $locale['518'] = "Cancellare messaggi selezionati?";
+$locale['518a'] = "Spostare messaggi selezionati?";
 $locale['519'] = "Stampa argomento"; //Stampa
 $locale['519a'] = "Stampa Messaggio";
 // Moderator Options
@@ -97,4 +99,21 @@ $locale['569'] = "Quota";
 $locale['570'] = "ha scritto";
 $locale['571'] = "Indirizzo IP";
 $locale['572'] = "Invia messaggio privato";
+// Move Posts
+$locale['600'] = "Sposta messaggi";
+$locale['601'] = "Seleziona il nuovo forum";
+$locale['602'] = "Continua";
+$locale['603'] = "Seleziona la nuova discussione";
+$locale['604'] = "Sposta messaggi";
+$locale['605'] = "Stai provando a spostare il primo messaggio di questa discussione!<br />Il primo messaggio <strong>non sarà spostato</strong> e sarà rimosso dalla lista.";
+$locale['606'] = "Stai provando a spostare il primo messaggio di questa discussione!<br />Il primo messaggio <strong>sarà spostato </strong> e la discussione verrà eliminata.";
+$locale['607'] = "Non ci sono messaggi da spostare.";
+$locale['608'] = "Non ci sono discussioni in questo forum.";
+$locale['609'] = "Torna alla discussione.";
+$locale['610'] = "Non ci sono discussioni da cui spostare messaggi.";
+// Move Posts Errors
+$locale['error-MP000'] = "Spostamento messaggi - errore";
+$locale['error-MP001'] = "La nuova discussione non esiste.";
+$locale['error-MP002'] = "I messaggi che hai selezionato non esistono o sono già stati spostati.";
+$locale['error-MP003'] = "Non ci sono messaggi da spostare.";
 ?>

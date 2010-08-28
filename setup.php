@@ -8,7 +8,7 @@
 | Version		: 1.00.00
 | Author		: Italian Staff PHP-Fusion Italy
 | Last Update	: 20 febbraio 2010
-| Copyright�	: 2002 - 2010 Nick Jones
+| Copyright	: 2002 - 2010 Nick Jones
 | Web URL	: http://www.php-fusion.co.uk/
 +--------------------------------------------------------*/
 
@@ -53,11 +53,19 @@ $locale['041'] = "File di configurazione scritto correttamente.";
 $locale['042'] = "Tabelle database create.";
 $locale['043'] = "Errore:";
 $locale['044'] = "Impossibile stabilire una connessione al database.";
-$locale['045'] = "Verifica le impostazioni del tuo MySQL.";
+$locale['045'] = "Verifica che nome utente e password di accesso a MySQL siano corrette.";
 $locale['046'] = "Impossibile scrivere il file di configurazione.";
 $locale['047'] = "Assicurati che il file config.php possa essere scritto.";
 $locale['048'] = "Impossibile creare le tabelle nel database.";
 $locale['049'] = "Specifica il nome del database.";
+$locale['050'] = "Impossibile collegarsi al database MySQL.";
+$locale['051'] = "Il database MySQL specificato non esiste.";
+$locale['052'] = "Errore Suffisso Tabella.";
+$locale['053'] = "Il Suffisso Tabella specificato è già in uso.";
+$locale['054'] = "Non è possibile scrivere o cancellare le tabelle MySQL.";
+$locale['055'] = "Assicurati che l'utente usare per l'accesso al database MySQL abbia permessi di lettura e scrittura per il database specificato.";
+$locale['056'] = "Svuota campi.";
+$locale['057'] = "Assicurati di aver compilato tutto i campi per la connesione del database MySQL.";
 // Step 5 - Super Admin login
 $locale['060'] = "Dettagli login Super Amministratore Primario";
 $locale['061'] = "Nome Utente:";
@@ -68,14 +76,17 @@ $locale['065'] = "Ripeti Password Amministrazione:";
 $locale['066'] = "Indirizzo Email:";
 // Step 6 - User details validation
 $locale['070'] = "Il Nome Utete contiene caratteri non validi.";
+$locale['070b'] = "Il campo Nome Utente non può essere lasciato vuoto.";
 $locale['071'] = "Le password non corrispondono.";
 $locale['072'] = "Password non valida, usa solo numeri e lettere.<br />La password deve essere lunga almeno 6 caratteri.";
+$locale['072b'] = "I campi Password non possono essere lasciati vuoti.";
 $locale['073'] = "Le password di amministrazione non corrispondono.";
 $locale['074'] = "La password utente e quella di amministrazione devono essere diverse.";
 $locale['075'] = "Password Amministrazione non valida, usa solo numeri e lettere.<br />La password deve essere lunga almeno 6 caratteri.";
+$locale['075b'] = "I Campi Password Amministrazione non possono essere lasciati vuoti.";
 $locale['076'] = "Il tuo indirizzo Email non &egrave; valido.";
-$locale['077'] = "C&#39;&egrave; un errore nelle tue impostazioni:";
-
+$locale['076b'] = "Il campo Email non può essere lasciato vuoto.";
+$locale['077'] = "C'è un errore nelle tue impostazioni:";
 // Step 6 - Admin Panels
 $locale['080'] = "Gestione Amministratori";
 $locale['081'] = "Categorie articoli";
@@ -108,21 +119,23 @@ $locale['107'] = "Aggiornamento";
 $locale['108'] = "Gruppi Utente";
 $locale['109'] = "Categorie Web Link";
 $locale['110'] = "Gestione Web Link";
-$locale['111'] = "Impostazioni Principali";
-$locale['112'] = "Impostazioni Data e Ora";
-$locale['113'] = "Impostazioni Forum";
-$locale['114'] = "Impostazioni Registrazione";
-$locale['115'] = "Impostazioni Album Fotografico";
-$locale['116'] = "Impostazioni Varie";
-$locale['117'] = "Impostazioni Messaggi Privati";
+$locale['111'] = "Principale";
+$locale['112'] = "Data e Ora";
+$locale['113'] = "Forum";
+$locale['114'] = "Registrazione";
+$locale['115'] = "Galleria Immagini";
+$locale['116'] = "Varie";
+$locale['117'] = "Messaggi Privati";
 $locale['118'] = "Campi utente";
 $locale['119'] = "Gestione Livelli forum";
-
-// Additional locale for Italian core
-$locale['120'] = "Ottimizza Database";
-$locale['121'] = "Reimposta password amministratori";
-
-
+$locale['120'] = "Categorie Campi Utente";
+$locale['121'] = "News";
+$locale['122'] = "Amministrazione Utenti";
+$locale['123'] = "Downloads";
+$locale['124'] = "Elementi per Pagina";
+$locale['125'] = "Sicurezza";
+$locale['126'] = "Impostazioni News";
+$locale['127'] = "Impostazioni Downloads";
 // Step 6 - Navigation Links
 $locale['130'] = "Home";
 $locale['131'] = "Articoli";
@@ -175,10 +188,15 @@ $locale['205'] = "Utente";
 $locale['206'] = "Utente anziano";
 $locale['207'] = "Veterano";
 $locale['208'] = "Fusioneer";
+// Stage 6 - User Field Categories
+$locale['220'] = "Informazioni Contatto";
+$locale['221'] = "Informazioni Varie";
+$locale['222'] = "Opzioni";
+$locale['223'] = "Statistiche";
 // Welcome message
-$locale['210'] = "Benvenuto nel tuo sito";
+$locale['230'] = "Benvenuto nel tuo sito";
 // Final message
-$locale['220'] = "Il setup &egrave; completo, PHP-Fusion 7 &egrave; pronto all'uso.<br />
+$locale['240'] = "Il setup &egrave; completo, PHP-Fusion 7 &egrave; pronto all'uso.<br />
 Clicca su Fine per andare sul tuo sito creato con PHP-Fusion.<br />
 <strong>Nota:</strong> Dopo essere entrato nel sito devi cancellare il file setup.php dal
 server e modificare i permessi al file config.php a 644 per ragioni di sicurezza.<br /><br />

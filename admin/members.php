@@ -1,5 +1,4 @@
 <?php
-// TODO
 /*-------------------------------------------------------+
 | Name CMS	: PHP-Fusion CMS v7.00.07
 | File Directory	: root/locale/Italian/admin/
@@ -95,56 +94,56 @@ $locale['556'] = "Aumenta sospensione per l'utente: ";
 $locale['557'] = "Aumenta sospensione";
 $locale['558'] = "Aumenta ban per l'utente: ";
 $locale['559'] = "Aumenta ban ";
-$locale['560'] = "Lift Security Ban of User: ";
-$locale['561'] = "Lift Security Ban";
-$locale['562'] = "Ban User: ";
-$locale['563'] = "Security Ban User: ";
-$locale['585a'] = "Please specify a reason for why you are banning or unbanning";
+$locale['560'] = "Revoca Ban di Sicurezza Utente: ";
+$locale['561'] = "Revoca Ban di Sicurezza";
+$locale['562'] = "Ban Utente: ";
+$locale['563'] = "Ban di Sicurezza Utente: ";
+$locale['585a'] = "Devi specificare un motivo per cui banni o togli il ban ";
 
-$locale['566'] = "Ban lifted";
-$locale['568'] = "Security Ban imposed";
-$locale['569'] = "Security Ban lifted";
-$locale['572'] = "Member suspended";
-$locale['573'] = "Suspension lifted";
-$locale['574'] = "Member deactivated";
-$locale['575'] = "Member reactivated";
-$locale['576'] = "Account cancelled";
-$locale['577'] = "Account cancellation undone";
-$locale['578'] = "Account cancelled and anonymized";
-$locale['579'] = "Account anonymization undone";
-$locale['580'] = "Deactivate Inactive Members";
-$locale['581'] = "You have more then 50 inactive users and will have to run the";
-$locale['582'] = "Reactivate";
-$locale['583'] = "Re-instate";
-$locale['584'] = "Select new status";
-$locale['585'] = "This Member was originally banned for security reasons! Are y$";
+$locale['566'] = "Ban revocato";
+$locale['568'] = "Ban di Sicurazza imposto";
+$locale['569'] = "Ban di Sicurezza revocato";
+$locale['572'] = "Utente sospeso";
+$locale['573'] = "Sospensione revocata";
+$locale['574'] = "Utente disattivato";
+$locale['575'] = "Utente riattivato";
+$locale['576'] = "Account cancellato";
+$locale['577'] = "Cancellazione Account rimossa";
+$locale['578'] = "Account cancellato e reso anonimo";
+$locale['579'] = "Account anonimo rimosso";
+$locale['580'] = "Disattiva Utenti Non Attivi";
+$locale['581'] = "Sono presenti più di 50 utenti non attivi e devi eseguire il processo di disattivazione <strong>%d volte</strong>.";
+$locale['582'] = "Riattiva";
+$locale['583'] = "Riabilita";
+$locale['584'] = "Seleziona nuovo stato";
+$locale['585'] = "Questo Utente era stato bannato per motivi di sicurezza! Sei sicuro di voler rimuovere il ban a questo utente ora?";
 
-$locale['590'] = "Suspend";
-$locale['591'] = "Unsuspend";
-$locale['592'] = "suspending";
-$locale['593'] = "unsuspending";
-$locale['594'] = "Please specify a reason for why you are ";
-$locale['595'] = " the user ";
-$locale['596'] = "Duration:";
+$locale['590'] = "Sospeso";
+$locale['591'] = "Rimuovi Sospensione";
+$locale['592'] = "sospendendo";
+$locale['593'] = " togliendo la sospensione";
+$locale['594'] = "Specifica un motivo per cui stai ";
+$locale['595'] = " l'utente ";
+$locale['596'] = "Durata:";
 
-$locale['600'] = "Security ban";
-$locale['601'] = "security banning";
-$locale['602'] = "Unban";
-$locale['603'] = "unbanning";
-$locale['604'] = "Reason:";
+$locale['600'] = "Ban di Sicurezza";
+$locale['601'] = "bannando";
+$locale['602'] = "Togli Ban";
+$locale['603'] = "togliendo il ban";
+$locale['604'] = "Motivo:";
 // Deactivation System
-$locale['610'] = "<strong>%d user(s)</strong> have not logged in for <strong>%d$
-By deactivating these users they will have <strong>%d day(s)</strong> before th$";
-$locale['611'] = "Please note that some users may have submitted content to you$
-these will be deleted when deactivated users are beeing deleted.";
-$locale['612'] = "user";
-$locale['613'] = "users";
-$locale['614'] = "Deactivate";
-$locale['615'] = "permanently deleted";
-$locale['616'] = "anonymize";
-$locale['617'] = "Warning:";
-$locale['618'] = "It is strongly recommended to change deactivation action to a$";
-$locale['619'] = "You can do so <a href='".ADMIN."settings_users.php".$aidlink.$;
-$locale['620'] = "anonymize";
-$locale['621'] = "Automatic deactivation of inactive users.";
+$locale['610'] = "<strong>%d Utente(i)</strong> non hanno fatto il login per <strong>%d giorno(i)</strong> e sono stati segnati come non attivi. 
+Disattivando questi utenti hanno <strong>%d giorno(i)</strong> prima di essere %s.";
+$locale['611'] = "Ricorda che alcuni utenti possono aver inviato dei contenuti come messaggi nel forum, commenti, immagini [..]
+questi verranno cancellati quando gli utenti disattivati saranno eliminati.";
+$locale['612'] = "utente";
+$locale['613'] = "utenti";
+$locale['614'] = "Disattiva";
+$locale['615'] = "cancellato in modo permanente";
+$locale['616'] = "rendendo anonimo";
+$locale['617'] = "Attenzione:";
+$locale['618'] = "Si raccomanda di non cancellare gli utenti disattivati ma di renderli anonimi in modo da non perdere dati importanti!";
+$locale['619'] = "Puoi farlo da <a href='".ADMIN."settings_users.php".$aidlink."'>qui</a>.";
+$locale['620'] = "rendendo anonimo";
+$locale['621'] = "Disattivazione automatica degli utenti non attivi.";
 ?>

@@ -1,5 +1,4 @@
 <?php
-// TODO
 /*-------------------------------------------------------+
 | Name CMS	: PHP-Fusion CMS v7.00.07
 | File Directory	: root/locale/Italian/admin/
@@ -20,15 +19,15 @@ $locale['403'] = "Ordinamento";
 $locale['404'] = "Opzioni";
 $locale['405'] = "Sopra";
 $locale['406'] = "Sotto";
-$locale['407'] = "Edit";
-$locale['408'] = "Disable";
+$locale['407'] = "Modifica";
+$locale['408'] = "Disabilita";
 // Enable / Edit User Field
-$locale['420'] = "Edit User Field";
-$locale['421'] = "Enable User Field";
-$locale['422'] = "Field Name:";
-$locale['423'] = "Category:";
-$locale['424'] = "Update";
-$locale['425'] = "Enable";
+$locale['420'] = "Modifica Campi Utente";
+$locale['421'] = "Abilita Campi Utente";
+$locale['422'] = "Nome Campo:";
+$locale['423'] = "Categoria:";
+$locale['424'] = "Aggiorna";
+$locale['425'] = "Abilita";
 // Disabled user fields
 $locale['430'] = "Campi utente disabilitati";
 $locale['431'] = "Abilita";
