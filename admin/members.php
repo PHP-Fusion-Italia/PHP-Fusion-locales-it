@@ -68,7 +68,7 @@ $locale['481'] = "L&#39;ccount utente &egrave; stato creato.";
 $locale['482'] = "L&#39;ccount utente non pu&ograve; essere creato.";
 // Registro sospensioni
 $locale['510s'] = "Registro sospensioni per ";
-$locale['511s'] = "Non ci sono record presenti per questo utente."
+$locale['511s'] = "Non ci sono record presenti per questo utente.";
 $locale['512s'] = "Eventi precedenti di ";
 $locale['513'] = "Num."; // as in number
 $locale['514'] = "Data";
