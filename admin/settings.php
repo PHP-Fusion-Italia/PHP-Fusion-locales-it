@@ -180,7 +180,7 @@ $locale['960'] = "Immagini Categorie Forum";
 // User Management
 $locale['1001'] = "Dimensione Avatar:";
 $locale['1002'] = "Sistema Disattivazione abilitato";
-$locale['1003'] = "Massimo periodo inattività:";
+$locale['1003'] = "Massimo periodo inattivit&agrave;:";
 $locale['1004'] = "Numero giorni prima che la disattivazione sia attivata.";
 $locale['1005'] = "Tempo di risposta prima della disattivazione:";
 $locale['1006'] = "Numero giorni per rispondere alla notifica di disattivazione via email.";
