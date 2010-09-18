@@ -1,16 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| Name CMS	: PHP-Fusion CMS v7.00.07
-| File Directory	: root/locale/Italian/admin/
-| File Name	: upgrade.php
-| File Type		: language Italian
-| Version		: 1.00.00
-| Author		: Italian Staff PHP-Fusion Italy
-| Last Update	: 9 marzo 2010
-| Copyright©	: 2002 - 2010 Nick Jones
-| Web URL	: http://www.php-fusion.co.uk/
-+--------------------------------------------------------*/
-
 $locale['400'] = "Aggiornamento";
 //No upgrade
 $locale['401'] = "Non &egrave; disponibile alcun aggiornamento del database.";
@@ -26,5 +14,7 @@ $locale['435'] = "Sicurezza";
 $locale['436'] = "Impostazioni News";
 $locale['437'] = "Impostazioni Downloads";
 // Upgrade locales
-$locale['500'] = '';
+$locale['500'] = "&Egrave; disponibile un aggiornamento per il database di PHP-Fusion.";
+$locale['501'] = "Conferma con il bottone per effettuare l'aggiornamento'.";
+$locale['502'] = "Aggiornamento del database completato.";
 ?>
