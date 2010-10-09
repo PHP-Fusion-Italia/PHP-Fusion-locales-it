@@ -1,17 +1,4 @@
 <?php
-
-/*-------------------------------------------------------+
-| Name CMS	: PHP-Fusion CMS v7.00.07
-| File Directory	: root/locale/Italian/
-| File Name	: messages.php
-| File Type		: language Italian
-| Version		: 1.00.00
-| Author		: Italian Staff PHP-Fusion Italy
-| Last Update	: 7 marzo 2010
-| Copyright©	: 2002 - 2010 Nick Jones
-| Web URL	: http://www.php-fusion.co.uk/
-+--------------------------------------------------------*/
-
 // Standard
 $locale['400'] = "Messaggi privati";
 $locale['401'] = "Scrivi nuovo messaggio";
@@ -57,7 +44,6 @@ $locale['440'] = "(ricevuto il %s)";
 $locale['441'] = "Scrivi come gestore sito";
 $locale['442'] = "Livello utente";
 $locale['443'] = "Gruppo";
-
 // Search Options
 $locale['450'] = "Ordine di ricerca e opzioni";
 $locale['451'] = "Cerca / Ordina";
@@ -75,7 +61,6 @@ $locale['462'] = "Oggetto";
 $locale['463'] = "Messaggio";
 $locale['464'] = "Mittente";
 $locale['465'] = "Data/Ora ricevuti";
-
 // Error Messages
 $locale['480'] = "Errore";
 $locale['481'] = "ID messaggio errato";
@@ -84,7 +69,6 @@ $locale['483'] = "Solo per iscritti";
 $locale['484'] = "La tua casella messaggi privati ha raggiunto il limite massimo.";
 $locale['485'] = "Seleziona almeno un messaggio";
 $locale['486'] = "Devi completare tutti i campi: Oggetto e Messaggio";
-
 // Tooltips
 $locale['500'] = "Clicca per scrivere un nuovo messaggio";
 $locale['501'] = "Clicca per vedere i messaggi ricevuti";
@@ -103,7 +87,6 @@ $locale['513'] = "Clicca per impostare il messaggio selezionato come Letto";
 $locale['514'] = "Clicca per impostare il messaggio selezionato come Non Letto";
 $locale['515'] = "Clicca per cancellare i messaggi selezionati";
 $locale['516'] = "Clicca per cambiare le impostazioni";
-
 // Options
 $locale['620'] = "Opzioni";
 $locale['621'] = "Notifica via Email al ricevimento di un nuovo PM:";

@@ -1,17 +1,4 @@
 <?php
-
-/*-------------------------------------------------------+
-| Name CMS	: PHP-Fusion CMS v7.00.07
-| File Directory	: root/locale/Italian/admin/
-| File Name	: main.php
-| File Type		: language Italian
-| Version		: 1.00.00
-| Author		: Italian Staff PHP-Fusion Italy
-| Last Update	: 9 marzo 2010
-| Copyright©	: 2002 - 2010 Nick Jones
-| Web URL	: http://www.php-fusion.co.uk/
-+--------------------------------------------------------*/
-
 // Admin Links
 $locale['200'] = $settings['sitename']." Pannello Amministrazione";
 $locale['ac00'] = "Amministrazione";

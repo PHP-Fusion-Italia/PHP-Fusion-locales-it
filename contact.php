@@ -1,17 +1,4 @@
 <?php
-
-/*-------------------------------------------------------+
-| Name CMS	: PHP-Fusion CMS v7.00.07
-| File Directory	: root/locale/Italian/
-| File Name	: contact.php
-| File Type	: language Italian
-| Version		: 1.00.00
-| Author		: Italian Staff PHP-Fusion Italy
-| Last Update	: 12 gennaio 2010
-| Copyright ©	: 2002 - 2009 Nick Jones
-| Web URL	: http://www.php-fusion.co.uk/
-+--------------------------------------------------------*/
-
 // Contact Form
 $locale['400'] = "Contattami";
 $locale['401'] = "Ci sono diversi modi per contattarmi, puoi inviare una email direttamente all&#39;indirizzo ".hide_email($settings['siteemail']).". Se sei registrato puoi inviarmi un <a href='messages.php?msg_send=1'>messaggio privato</a>. In alternativa basta compilare il modulo in questa pagina per inviarmi una email.<hr />

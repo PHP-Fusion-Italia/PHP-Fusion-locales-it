@@ -1,17 +1,4 @@
 <?php
-
-/*-------------------------------------------------------+
-| Name CMS	: PHP-Fusion CMS v7.00.07
-| File Directory	: root/locale/Italian/
-| File Name	: ratings.php
-| File Type		: language Italian
-| Version		: 1.00.00
-| Author		: Italian Staff PHP-Fusion Italy
-| Last Update	: 7 marzo 2010
-| Copyright©	: 2002 - 2010 Nick Jones
-| Web URL	: http://www.php-fusion.co.uk/
-+--------------------------------------------------------*/
-
 $locale['r100'] = "Voti";
 $locale['r101'] = "Nessun voto pervenuto";
 $locale['r102'] = "Rimuovi Voto";

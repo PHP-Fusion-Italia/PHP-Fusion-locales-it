@@ -1,27 +1,11 @@
 <?php
-
-/*-------------------------------------------------------+
-| Name CMS	: PHP-Fusion CMS v7.00.07
-| File Directory	: root/locale/Italian/
-| File Name	: setup.php
-| File Type		: language Italian
-| Version		: 1.00.00
-| Author		: Italian Staff PHP-Fusion Italy
-| Last Update	: 20 febbraio 2010
-| Copyright	: 2002 - 2010 Nick Jones
-| Web URL	: http://www.php-fusion.co.uk/
-+--------------------------------------------------------*/
-
 $locale['title'] = "PHP-Fusion 7 Core Edition Setup";
 $locale['sub-title'] = "PHP-Fusion Core 7 Edition Setup";
-
 $locale['charset'] = "iso-8859-1";
-
 $locale['401'] = "Impossibile stabilire una connessione con il database.<br /><br />
 Assicurati di aver inserito i dati corretti.";
 $locale['402'] = "Impossibile selezionare la tabella del database.<br /><br />
 Assicurati di aver inserito i dati corretti.";
-
 $locale['001'] = "Passo 1: Lingua";
 $locale['002'] = "Passo 2: Test permessi per file e cartelle";
 $locale['003'] = "Passo 3: Impostazioni Database";

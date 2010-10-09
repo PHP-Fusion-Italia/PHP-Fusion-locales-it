@@ -1,18 +1,4 @@
 <?php
-
-/*-------------------------------------------------------+
-| Name CMS	: PHP-Fusion CMS v7.00.07
-| File Directory	: root/locale/Italian/admin/
-| File Name	: mysql_tool.php
-| File Type		: language Italian
-| Version		: 1.00.00
-| Author		: Italian Staff PHP-Fusion Italy
-| Last Update	: 9 marzo 2010
-| Copyright©	: 2002 - 2010 Nick Jones
-| Web URL	: http://www.php-fusion.co.uk/
-+--------------------------------------------------------*/
-
-
 $locale['mt_title'] = "Strumento ottimizzazione tabelle MySQL";
 $locale['mt_explain'] = "Questo strumento ti permette di ottimizzare le tabelle del database MySQL che presentano un overflow.";
 

@@ -1,17 +1,4 @@
 <?php
-
-/*-------------------------------------------------------+
-| Name CMS	: PHP-Fusion CMS v7.00.07
-| File Directory	: root/locale/Italian/forum/
-| File Name	: main.php
-| File Type		: language Italian
-| Version		: 1.00.00
-| Author		: Italian Staff PHP-Fusion Italy
-| Last Update	: 9 marzo 2010
-| Copyright©	: 2002 - 2010 Nick Jones
-| Web URL	: http://www.php-fusion.co.uk/
-+--------------------------------------------------------*/
-
 // Forum Index
 $locale['400'] = "Forum";
 $locale['401'] = "Forum";
@@ -105,8 +92,8 @@ $locale['601'] = "Seleziona il nuovo forum";
 $locale['602'] = "Continua";
 $locale['603'] = "Seleziona la nuova discussione";
 $locale['604'] = "Sposta messaggi";
-$locale['605'] = "Stai provando a spostare il primo messaggio di questa discussione!<br />Il primo messaggio <strong>non sar‡ spostato</strong> e sar‡ rimosso dalla lista.";
-$locale['606'] = "Stai provando a spostare il primo messaggio di questa discussione!<br />Il primo messaggio <strong>sar‡ spostato </strong> e la discussione verr‡ eliminata.";
+$locale['605'] = "Stai provando a spostare il primo messaggio di questa discussione!<br />Il primo messaggio <strong>non sar√† spostato</strong> e sar√† rimosso dalla lista.";
+$locale['606'] = "Stai provando a spostare il primo messaggio di questa discussione!<br />Il primo messaggio <strong>sar√† spostato </strong> e la discussione verr√† eliminata.";
 $locale['607'] = "Non ci sono messaggi da spostare.";
 $locale['608'] = "Non ci sono discussioni in questo forum.";
 $locale['609'] = "Torna alla discussione.";
@@ -114,6 +101,6 @@ $locale['610'] = "Non ci sono discussioni da cui spostare messaggi.";
 // Move Posts Errors
 $locale['error-MP000'] = "Spostamento messaggi - errore";
 $locale['error-MP001'] = "La nuova discussione non esiste.";
-$locale['error-MP002'] = "I messaggi che hai selezionato non esistono o sono gi‡ stati spostati.";
+$locale['error-MP002'] = "I messaggi che hai selezionato non esistono o sono gi√† stati spostati.";
 $locale['error-MP003'] = "Non ci sono messaggi da spostare.";
 ?>
