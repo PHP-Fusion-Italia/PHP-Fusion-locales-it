@@ -32,8 +32,14 @@ $locale['452'] = "Formato data lungo:";
 $locale['453'] = "Formato data forum:";
 $locale['454'] = "Formato data header:";
 $locale['455'] = "-- Seleziona un formato --";
-$locale['456'] = "Fuso orario";
+$locale['456'] = "Fuso orario predefinito";
 $locale['457'] = "Formato data per Articoli e Notizie:";
+$locale['458'] = "Ora";
+$locale['459'] = "Server";
+$locale['460'] = "Tu";
+$locale['461'] = "Visitatori";
+$locale['462'] = "Fuso orario del server";
+$locale['463'] = "Impostalo cos&igrave; che il fuso orario del server sia GMT 0";
 // Forum Settings
 $locale['500'] = "Forum";
 $locale['501'] = "Pannello ultimi argomenti attivi:";

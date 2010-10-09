@@ -14,7 +14,9 @@ $locale['435'] = "Sicurezza";
 $locale['436'] = "Impostazioni News";
 $locale['437'] = "Impostazioni Downloads";
 // Upgrade locales
-$locale['500'] = "&Egrave; disponibile un aggiornamento per il database di PHP-Fusion.";
-$locale['501'] = "Conferma con il bottone per effettuare l'aggiornamento'.";
-$locale['502'] = "Aggiornamento del database completato.";
+$locale['500'] = "Un aggiornamento %s &egrave; per il database di PHP-Fusion.";
+$locale['501'] = "Fai click su Aggiorna per effettuare l'aggiornamento (&egrave; sempre buona idea fare un backup del database prima di procedere).";
+$locale['502'] = "Aggiornamento del database completato con successo.";
+$locale['503'] = "importante";
+$locale['504'] = "minore";
 ?>
