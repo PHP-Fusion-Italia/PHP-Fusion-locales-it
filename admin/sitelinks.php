@@ -10,7 +10,7 @@ $locale['412'] = "Link eliminato";
 // Site Links form
 $locale['420'] = "Nome link:";
 $locale['421'] = "URL link:";
-$locale['422'] = "Visibilita:";
+$locale['422'] = "Visibilit&agrave;:";
 $locale['423'] = "Ordine:";
 $locale['424'] = "Posizione:";
 $locale['425'] = "solo pannello di navigazione";
