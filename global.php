@@ -154,7 +154,9 @@ $locale['global_210'] = "Vai al contenuto";
 $locale['global_300'] = "Nessun tema trovato";
 $locale['global_301'] = "Ci dispiace, questa pagina non pu&ograve; essere visualizzata. Per qualche motivo, nessun tema compatibile &egrave; stato trovato. Se sei l&#39;amministratore di questo sito, assicurati di aver caricato all&#39;interno della cartella <em>themes</em> un tema compatibile con PHP-Fusion 7. Dopo averlo caricato, assicurati che sia impostato correttamente nelle Impostazioni Principali.<br /><br />Se sei un visitatore o utente di questo sito, contatta l&#39;amministratore per segnalare questo problema a ".hide_email($settings['siteemail']).".";
 $locale['global_302'] = "Il tema selezionato non esiste pi&ugrave; oppure &egrave; incompleto!";
-$locale['global_302'] = "Il tema selezionato non esiste più oppure è incompleto!";
+//$locale['global_302'] = "Il tema selezionato non esiste più oppure è incompleto!";
+// JavaScript Disabilitato
+$locale['global_303'] = "Oh no! Dov'&egrave; <strong>JavaScript</strong>?<br />Il tuo browser non ha JavaScript abilitato oppure non supporta JavaScript. Per favore <strong>abilita JavaScript</strong> nel tuo browser per vedere correttamente questo sito,<br /> opppure <strong>installa</strong> un browser che supporti JavaScript: <a href='http://firefox.com' rel='nofollow' title='Mozilla Firefox'>Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Safari'>Safari</a>, <a href='http://opera.com' rel='nofollow' title='Opera browser'>Opera</a>, <a href='http://www.google.com/chrome' rel='nofollow' title='Google Chrome'>Chrome</a> o una versione di <a href='http://www.microsoft.com/windows/internet-explorer/' rel='nofollow' title='Internet Explorer'>Internet Explorer</a> superiore alla 6.";
 // User Management
 // Member status
 $locale['global_400'] = "sospeso";
