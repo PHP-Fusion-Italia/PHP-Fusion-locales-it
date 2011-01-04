@@ -2,6 +2,7 @@
 $locale['title'] = "PHP-Fusion 7 Core Edition Setup";
 $locale['sub-title'] = "PHP-Fusion Core 7 Edition Setup";
 $locale['charset'] = "iso-8859-1";
+$locale['xml_lang'] = "it";
 $locale['401'] = "Impossibile stabilire una connessione con il database.<br /><br />
 Assicurati di aver inserito i dati corretti.";
 $locale['402'] = "Impossibile selezionare la tabella del database.<br /><br />
