@@ -26,6 +26,7 @@ $locale['436'] = "tutte";
 $locale['437'] = "nessuna";
 $locale['438'] = "Ripristina";
 $locale['439'] = "Elimina";
+$locale['440'] = "Tipi di file supportati:";
 // Database Backup
 $locale['450'] = "Crea file di ripristino del database";
 $locale['451'] = "Informazioni database";
