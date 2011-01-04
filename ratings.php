@@ -3,7 +3,7 @@ $locale['r100'] = "Voti";
 $locale['r101'] = "Nessun voto pervenuto";
 $locale['r102'] = "Rimuovi Voto";
 $locale['r103'] = "Invia Voto";
-$locale['r104'] = "L&#39;assegnazione di un voto &egrave; possibile solo se si &egrave; utenti registrati.<br /><br />Per favore loggati o registrati.";
+$locale['r104'] = "L&#39;assegnazione di un voto &egrave; possibile solo se si &egrave; utenti registrati.<br /><br />Per favore <a href='".BASEDIR."login.php'>fai il login</a>".($settings['enable_registration'] ? " o registrati" : "")." per votare."; //loggati!?
 $locale['r105'] = "Hai votato <strong>%s</strong> il %s";
 $locale['r106'] = "Seleziona il tuo voto";
 $locale['r107'] = "Scegli voto:";
