@@ -22,7 +22,7 @@ $locale['441'] = "L&#39;argomento ora &egrave; non importante";
 // Move Thread
 $locale['450'] = "Sposta argomento";
 $locale['451'] = "Sposta argomento in:";
-$locale['452'] = "L&#39;argomento &egrave; stata spostata correttamente";
+$locale['452'] = "L&#39;argomento &egrave; stato spostato correttamente";
 // Renew Thread
 $locale['458'] = "Aggiorna argomento";
 $locale['459'] = "L&#39;argomento &egrave; stato aggiornato";
