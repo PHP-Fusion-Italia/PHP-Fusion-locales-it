@@ -16,6 +16,7 @@ $locale['417'] = "L&#39;immagine deve essere in formato GIF, JPEG o PNG.";
 $locale['418'] = "L&#39;immagine non deve superare le misure di %uw x %uh pixels.";
 $locale['419'] = "Immagine/i spostata/e.";
 $locale['420'] = "La libreria GD non &egrave; stata trovata. L&#39;album immagini non funziona senza la libreria GD. Contatta il tuo provider per maggiori informazioni.";
+$locale['421'] = "Il campo Immagine non pu&ograve; essere vuoto.";
 // Photos form
 $locale['430'] = "Sposta immagine nell&#39;album";
 $locale['431'] = "Sposta";

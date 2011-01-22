@@ -134,6 +134,8 @@ $locale['680'] = "Flood Ban Automatico:";
 $locale['681'] = "Manutenzione";
 $locale['682'] = "Impostazioni Flood";
 $locale['683'] = "Impostazioni Sicurezza";
+
+$locale['687'] = "Parole proibite";
 // Private Message Settings
 $locale['700'] = "Messaggi privati";
 $locale['701'] = "Limite messaggi in arrivo:";
@@ -181,8 +183,8 @@ $locale['955'] = "Originale";
 $locale['956'] = "Quadrato";
 $locale['957'] = "Immagine nella pagina Principale";
 $locale['958'] = "Immagine su Continua a leggere";
-$locale['959'] = "Immagini Inviate";
-$locale['960'] = "Immagini Categorie Forum";
+$locale['959'] = "Immagine Inviata";
+$locale['960'] = "Immagine Categoria";
 // User Management
 $locale['1001'] = "Dimensione Avatar:";
 $locale['1002'] = "Sistema Disattivazione abilitato";
