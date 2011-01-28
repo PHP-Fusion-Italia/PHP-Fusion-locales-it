@@ -171,12 +171,12 @@ $locale['global_408'] = " per il seguente motivo:";
 $locale['global_409'] = "Questo account &egrave; stato bannato per motivi di sicurezza.";
 $locale['global_410'] = "Il motivo &egrave; il seguente: ";
 $locale['global_411'] = "Questo account &egrave; stato cancellato.";
-$locale['global_412'] = "Questo account &egrave; diventato anonimo, probabilmente per prolungata inattività.";
+$locale['global_412'] = "Questo account &egrave; diventato anonimo, probabilmente per prolungata inattivit&agrave;.";
 // Banning due to flooding
 $locale['global_440'] = "Ban automatico del controllo Flood";
 $locale['global_441'] = "Il tuo account su ".$settings['sitename']."&egrave; stato bannato";
 $locale['global_442'] = "Ciao [USER_NAME],\n
-Il tuo account su ".$settings['sitename']." &egrave; stato sorpreso a inserire troppi elementi in un breve lasso di tempo dall'indirizzo IP ".USER_IP.", ed &egrave; stato bannato. Questo per prevenire sistemi automatici di inserire spam in grandi quantità.\n
+Il tuo account su ".$settings['sitename']." &egrave; stato sorpreso a inserire troppi elementi in un breve lasso di tempo dall'indirizzo IP ".USER_IP.", ed &egrave; stato bannato. Questo per prevenire sistemi automatici di inserire spam in grandi quantit&agrave;.\n
 Contatta l'amministratore del sito all'indirizzo ".$settings['siteemail']." per avere l'account ripristinato o segnalare che il ban di sicurezza non &egrave; stato causato da te.\n
 ".$settings['siteusername'];
 // Lifting of suspension
