@@ -154,7 +154,7 @@ $locale['global_210'] = "Vai al contenuto";
 $locale['global_300'] = "Nessun tema trovato";
 $locale['global_301'] = "Ci dispiace, questa pagina non pu&ograve; essere visualizzata. Per qualche motivo, nessun tema compatibile &egrave; stato trovato. Se sei l&#39;amministratore di questo sito, assicurati di aver caricato all&#39;interno della cartella <em>themes</em> un tema compatibile con PHP-Fusion 7. Dopo averlo caricato, assicurati che sia impostato correttamente nelle Impostazioni Principali.<br /><br />Se sei un visitatore o utente di questo sito, contatta l&#39;amministratore per segnalare questo problema a ".hide_email($settings['siteemail']).".";
 $locale['global_302'] = "Il tema selezionato non esiste pi&ugrave; oppure &egrave; incompleto!";
-//$locale['global_302'] = "Il tema selezionato non esiste più oppure è incompleto!";
+//$locale['global_302'] = "Il tema selezionato non esiste pi&ugrave; oppure &egrave; incompleto!";
 // JavaScript Disabilitato
 $locale['global_303'] = "Oh no! Dov'&egrave; <strong>JavaScript</strong>?<br />Il tuo browser non ha JavaScript abilitato oppure non supporta JavaScript. Per favore <strong>abilita JavaScript</strong> nel tuo browser per vedere correttamente questo sito,<br /> opppure <strong>installa</strong> un browser che supporti JavaScript: <a href='http://firefox.com' rel='nofollow' title='Mozilla Firefox'>Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Safari'>Safari</a>, <a href='http://opera.com' rel='nofollow' title='Opera browser'>Opera</a>, <a href='http://www.google.com/chrome' rel='nofollow' title='Google Chrome'>Chrome</a> o una versione di <a href='http://www.microsoft.com/windows/internet-explorer/' rel='nofollow' title='Internet Explorer'>Internet Explorer</a> superiore alla 6.";
 // User Management
@@ -165,37 +165,37 @@ $locale['global_402'] = "disattivato";
 $locale['global_403'] = "account chiuso";
 $locale['global_404'] = "account anonimo";
 $locale['global_405'] = "utente anonimo";
-$locale['global_406'] = "Questo account è stato bannato per il seguente motivo:";
-$locale['global_407'] = "Questo account è stato sospeso fino al ";
+$locale['global_406'] = "Questo account &egrave; stato bannato per il seguente motivo:";
+$locale['global_407'] = "Questo account &egrave; stato sospeso fino al ";
 $locale['global_408'] = " per il seguente motivo:";
-$locale['global_409'] = "Questo account è stato bannato per motivi di sicurezza.";
-$locale['global_410'] = "Il motivo è il seguente: ";
-$locale['global_411'] = "Questo account è stato cancellato.";
-$locale['global_412'] = "Questo account è diventato anonimo, probabilmente per prolungata inattività.";
+$locale['global_409'] = "Questo account &egrave; stato bannato per motivi di sicurezza.";
+$locale['global_410'] = "Il motivo &egrave; il seguente: ";
+$locale['global_411'] = "Questo account &egrave; stato cancellato.";
+$locale['global_412'] = "Questo account &egrave; diventato anonimo, probabilmente per prolungata inattività.";
 // Banning due to flooding
 $locale['global_440'] = "Ban automatico del controllo Flood";
-$locale['global_441'] = "Il tuo account su ".$settings['sitename']."è stato bannato";
+$locale['global_441'] = "Il tuo account su ".$settings['sitename']."&egrave; stato bannato";
 $locale['global_442'] = "Ciao [USER_NAME],\n
-Il tuo account su ".$settings['sitename']." è stato sorpreso a inserire troppi elementi in un breve lasso di tempo dall'indirizzo IP ".USER_IP.", ed è stato bannato. Questo per prevenire sistemi automatici di inserire spam in grandi quantità.\n
-Contatta l'amministratore del sito all'indirizzo ".$settings['siteemail']." per avere l'account ripristinato o segnalare che il ban di sicurezza non è stato causato da te.\n
+Il tuo account su ".$settings['sitename']." &egrave; stato sorpreso a inserire troppi elementi in un breve lasso di tempo dall'indirizzo IP ".USER_IP.", ed &egrave; stato bannato. Questo per prevenire sistemi automatici di inserire spam in grandi quantità.\n
+Contatta l'amministratore del sito all'indirizzo ".$settings['siteemail']." per avere l'account ripristinato o segnalare che il ban di sicurezza non &egrave; stato causato da te.\n
 ".$settings['siteusername'];
 // Lifting of suspension
 $locale['global_450'] = "Sospensione revocata automaticamente dal sistema";
 $locale['global_451'] = "Sospensione revocata su ".$settings['sitename'];
 $locale['global_452'] = "Ciao USER_NAME,\n
-La sospensione del tuo account su ".$settings['siteurl']." è stata revocata. Qui i dettagli per il login:\n
+La sospensione del tuo account su ".$settings['siteurl']." &egrave; stata revocata. Qui i dettagli per il login:\n
 Nome Utente: USER_NAME
 Password: nascosta per motivi di sicurezza\n
 Se hai dimenticato al passowrd puoi resettarla seguendo il collegamento: LOST_PASSWORD\n\n
 Saluti,\n
 ".$settings['siteusername'];
 $locale['global_453'] = "Ciao USER_NAME,\n
-La sospensione del tuo account su ".$settings['siteurl']." è stata revocata.\n\n
+La sospensione del tuo account su ".$settings['siteurl']." &egrave; stata revocata.\n\n
 Saluti,\n
 ".$settings['siteusername'];
 $locale['global_454'] = "Account riattivato su ".$settings['sitename'];
 $locale['global_455'] = "Ciao USER_NAME,\n
-All'ultimo accesso il tuo account è stato riattivato su ".$settings['siteurl']." e non è più segnato come inattivo.\n\n
+All'ultimo accesso il tuo account &egrave; stato riattivato su ".$settings['siteurl']." e non &egrave; pi&ugrave; segnato come inattivo.\n\n
 Saluti,\n
 ".$settings['siteusername'];
 // Function parsebytesize()

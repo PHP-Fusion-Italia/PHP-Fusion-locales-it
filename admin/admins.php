@@ -37,7 +37,7 @@ $locale['449'] = "Impostazioni";
 // Popup Error/Warning Messages
 $locale['460'] = "Eliminare questo amministratore?";
 $locale['461'] = "Aggiungere questo amministratore?";
-$locale['462'] = "Conferire questi privilegi ad utente è un potenziale rischio per la sicurezza, dovrebbero averli solo utenti fidati!";
+$locale['462'] = "Conferire questi privilegi ad utente &egrave; un potenziale rischio per la sicurezza, dovrebbero averli solo utenti fidati!";
 // Remove Admin confirmation
 $locale['470'] = "Cancella amministratore";
 $locale['471'] = "Per eliminare questo amministratore, inserire la password di amministrazione:";
