@@ -40,6 +40,7 @@ $locale['460'] = "Tu";
 $locale['461'] = "Visitatori";
 $locale['462'] = "Fuso orario del server";
 $locale['463'] = "Impostalo cos&igrave; che il fuso orario del server sia GMT 0";
+$locale['464'] = "Fuso orario di base";
 // Forum Settings
 $locale['500'] = "Forum";
 $locale['501'] = "Pannello ultimi argomenti attivi:";
