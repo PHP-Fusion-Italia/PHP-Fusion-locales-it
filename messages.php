@@ -69,7 +69,7 @@ $locale['483'] = "Solo per iscritti";
 $locale['484'] = "La tua casella messaggi privati ha raggiunto il limite massimo.";
 $locale['485'] = "Seleziona almeno un messaggio";
 $locale['486'] = "Devi completare tutti i campi: Oggetto e Messaggio";
-$locale['487'] = "Per favore attendi %s secondi prima di inviare il tuo prossimo messaggio.";
+$locale['487'] = "Protezione antiflood: per favore attendi almeno %s secondi prima di inviare un nuovo messaggio.";
 // Tooltips
 $locale['500'] = "Clicca per scrivere un nuovo messaggio";
 $locale['501'] = "Clicca per vedere i messaggi ricevuti";

@@ -72,7 +72,7 @@ $locale['540'] = "Errore";
 $locale['541'] = "Errore: devi specificare una motivazione, &egrave; obbligatoria!!";
 $locale['542'] = "Errore: devi specificare una motivazione, &egrave; obbligatoria!!";
 // User Management Admin
-$locale['550'] = "Susospendi utente: ";
+$locale['550'] = "Sospendi utente: ";
 $locale['551'] = "Durata in giorni:";
 $locale['552'] = "Motivazione:";
 $locale['553'] = "Sospendi";

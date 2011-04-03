@@ -11,12 +11,17 @@ $locale['430'] = "Categorie Campi Utente";
 $locale['432'] = "Amministrazione Utenti";
 $locale['434'] = "Elementi per Pagina";
 $locale['435'] = "Sicurezza";
-$locale['436'] = "Impostazioni News";
+$locale['436'] = "Impostazioni Notizie";
 $locale['437'] = "Impostazioni Downloads";
+$locale['440'] = "Proponi Download";
+$locale['441'] = "Shoutbox";
 // Upgrade locales
 $locale['500'] = "Un aggiornamento %s &egrave; per il database di PHP-Fusion.";
 $locale['501'] = "Fai click su Aggiorna per effettuare l'aggiornamento (&egrave; sempre buona idea fare un backup del database prima di procedere).";
 $locale['502'] = "Aggiornamento del database completato con successo.";
 $locale['503'] = "importante";
 $locale['504'] = "minore";
+
+$locale['mysql_charset'] = "latin1";
+$locale['mysql_collate'] = "latin1_swedish_ci";
 ?>

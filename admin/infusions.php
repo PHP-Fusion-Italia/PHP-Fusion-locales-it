@@ -2,7 +2,7 @@
 // Infusion Management
 $locale['400'] = "Infusions";
 $locale['401'] = "Installa";
-$locale['402'] = "Questo elemento &egrave; gia installato";
+$locale['402'] = "Questo elemento &egrave; gi&agrave; installato";
 $locale['403'] = "Questo elemento non pu&ograve; essere installato";
 $locale['404'] = "Infusions installati";
 $locale['405'] = "Titolo";

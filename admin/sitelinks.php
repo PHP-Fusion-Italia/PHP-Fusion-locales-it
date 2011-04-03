@@ -32,6 +32,7 @@ $locale['451'] = "Sotto";
 $locale['452'] = "Sposta sopra";
 $locale['453'] = "Sposta sotto";
 $locale['454'] = "Aggiorna ordinamento link";
+$locale['455'] = "Link riordinati.";
 // Delete Site Link category
 $locale['460'] = "Cancellare questo link?";
 ?>

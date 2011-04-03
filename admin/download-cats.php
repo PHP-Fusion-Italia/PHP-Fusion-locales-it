@@ -29,4 +29,7 @@ $locale['444'] = "Elimina";
 $locale['445'] = "Nessuna categoria download &egrave; stata definita";
 // Delete Download category
 $locale['450'] = "Cancellare questa categoria download?";
+// Error Messages
+$locale['460'] = "Attenzione, devi specificare il nome della categoria";
+$locale['461'] = "Attenzione, una categoria con lo stesso nome &egrave; gi&agrave; presente.";
 ?>

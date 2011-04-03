@@ -20,6 +20,9 @@ $locale['426'] = "Scritto su ";
 $locale['427'] = "Modificato da ";
 $locale['428'] = " su ";
 $locale['429'] = " ha scritto:";
+$locale['430'] = "Avatar utente";
+$locale['431'] = "Ultimo messaggio";
+$locale['432'] = "Ultimi %s messaggi";
 // Post Error/Success
 $locale['440a'] = "File allegato non consentito";
 $locale['440b'] = "Dimensione o nome file non valido";
@@ -36,6 +39,8 @@ $locale['450'] = "Errore: la tua sessione cookie &egrave; scaduta, loggati e scr
 $locale['451'] = "Segui argomento";
 $locale['452'] = "Stai seguendo l&#39;argomento";
 $locale['453'] = "Non stai pi&ugrave; seguendo l&#39;argomento";
+$locale['454'] = "Questo post &egrave; bloccato. Contatta il moderatore per altre info.";
+$locale['455'] = "Puoi modificare un messaggio entro %d minuto(i) dalla sua creazione.";
 // Post Form
 $locale['460'] = "Oggetto";
 $locale['461'] = "Messaggio";
@@ -51,6 +56,7 @@ $locale['470'] = "Opzioni sondaggio";
 $locale['471'] = "Aggiungi opzione";
 $locale['472'] = "Aggiorna";
 $locale['473'] = "Cancella";
+$locale['474'] = "Modifica motivazione";
 // Post Form Options
 $locale['480'] = "Rendi argomento Importante";
 $locale['481'] = "Blocca l&#39;argomento";
@@ -59,8 +65,14 @@ $locale['483'] = "Mostra la mia firma in questo messaggio";
 $locale['484'] = "Cancella questo messaggio";
 $locale['485'] = "Cancella allegato -";
 $locale['486'] = "Notifica quando viene scritta una risposta";
+$locale['487'] = "Nascondi Modifica";
+$locale['488'] = "Blocca Post";
 // Post Access Violation
-$locale['500'] = "Non puoi modificare questo messaggio.";
+$locale['500'] = "Non puoi modificare questo post.";
+
+// Forum Post Merger
+$locale['520'] = "Unito a";
+
 // Search Forum Form
 $locale['530'] = "Ricerca nel forum";
 $locale['531'] = "Cerca parola chiave";

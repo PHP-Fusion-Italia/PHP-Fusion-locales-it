@@ -25,6 +25,9 @@ $locale['430'] = "Categoria";
 $locale['431'] = "Accesso";
 // Delete Web Link category
 $locale['440'] = "Cancellare categoria web link?";
+// Error Messages
+$locale['460'] = "Attenzione, devi specificare il nome della categoria";
+$locale['461'] = "Attenzione, una categoria con lo stesso nome &egrave; gi&agrave; presente.";
 // Web Link titles
 $locale['500'] = "Aggiungi web link";
 $locale['501'] = "Modifica web link";

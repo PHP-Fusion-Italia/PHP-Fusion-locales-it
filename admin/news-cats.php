@@ -19,4 +19,7 @@ $locale['435'] = "Nessuna categoria notizie &egrave; stata definita";
 $locale['436'] = "Clicca qui per inviare immagini categoria";
 // Popup Error/Warning Messages
 $locale['450'] = "Cancellare questa categoria notizie?";
+// Error Messages
+$locale['460'] = "Attenzione, devi specificare il nome della categoria";
+$locale['461'] = "Attenzione, una categoria con lo stesso nome &egrave; gi&agrave; presente.";
 ?>

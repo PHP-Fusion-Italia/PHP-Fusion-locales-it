@@ -19,6 +19,10 @@ $locale['425'] = "Moderatori";
 $locale['426'] = "Amministratori";
 $locale['427'] = "Root";
 $locale['428'] = "Salva livello";
+$locale['429'] = "Tipo livello:";
+$locale['429a'] = "Speciale";
+$locale['429b'] = "Admin";
+$locale['429c'] = "Totale post";
 // Current Forum Ranks
 $locale['430'] = "Titolo";
 $locale['431'] = "Applicato a";
@@ -28,6 +32,7 @@ $locale['434'] = "Opzioni";
 $locale['435'] = "Modifica";
 $locale['436'] = "Elimina";
 $locale['437'] = "Nessun livello &egrave; stato definito.";
+$locale['438'] = "Tipo / Totale";
 // Forum Ranks Disabled
 $locale['450'] = "Forum livello &egrave; disabilitato.<br />Vai in %s Amministrazione Pannelli per abilitare la funzione.";
 $locale['451'] = "Impostazioni Forum";

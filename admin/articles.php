@@ -30,4 +30,8 @@ $locale['452'] = "Non ci sono categorie articoli definite";
 $locale['453'] = "Devi definire almeno una categoria prima di poter inserire un articolo";
 $locale['454'] = "Clicca qui";
 $locale['455'] = " per andare a categorie articoli";
+$locale['456'] = "%s sono disabilitati per tutti gli elementi.<br />Questa opzione avranno effetto solo quando verr&agrave; riabilitata.";
+$locale['457'] = "Commenti";
+$locale['458'] = "Valutazioni";
+$locale['459'] = $locale['457']." e ".$locale['458'];
 ?>

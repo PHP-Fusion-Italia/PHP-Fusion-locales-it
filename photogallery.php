@@ -31,4 +31,6 @@ $locale['455'] = "pixels";
 $locale['456'] = "Dimensione: ";
 $locale['457'] = "Visualizzazioni: ";
 $locale['458'] = "Clicca per chiudere";
+$locale['459'] = "Prima foto";
+$locale['460'] = "Ultima foto";
 ?>

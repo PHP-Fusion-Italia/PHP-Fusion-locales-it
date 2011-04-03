@@ -1,18 +1,7 @@
 <?php
-/*-------------------------------------------------------+
-| Name CMS	: PHP-Fusion CMS v7.00.07
-| File Directory	: root/locale/Italian/user_fields/
-| File Name	: user_birthdate.php
-| File Type		: language Italian
-| Version		: 1.00.00
-| Author		: Italian Staff PHP-Fusion Italy
-| Last Update	: 9 marzo 2010
-| Copyright	: 2002 - 2010 Nick Jones
-| Web URL	: http://www.php-fusion.co.uk/
-+--------------------------------------------------------*/
-
 $locale['uf_birthdate'] = "Compleanno";
 $locale['uf_birthdate_desc'] = "Mostra la data di nascita dell&#39;utente con il segno zodiacale";
+$locale['uf_birthdate_error'] = "Il compleanno non &egrave; stato configurato correttamente.";
 
 $locale['uf_ari'] = "Ariete ";
 $locale['uf_tor'] = "Toro ";

@@ -23,8 +23,12 @@ $locale['430'] = "Salva pagina";
 // Popup errors / warning messages
 $locale['450'] = "Cancellare questa pagina personale?";
 $locale['451'] = "Specifica un titolo per la pagina";
-$locale['452'] = "Inserisci la password";
-$locale['453'] = "Password amministrazione non corrisponde";
+$locale['452'] = "Devi specificare la tua password";
+$locale['453'] = "La password di amministrazione non &egrave; corretta.";
+$locale['454'] = "%s sono disabilitati per tutti gli elementi.<br />Questa opzione avranno effetto solo quando verr&agrave; riabilitata.";
+$locale['455'] = "Commenti";
+$locale['456'] = "Valutazioni";
+$locale['457'] = $locale['455']." e ".$locale['456'];
 // TinyMCE editor
 $locale['460'] = "TinyMCE:";
 $locale['461'] = "Abilita";

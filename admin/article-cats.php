@@ -29,4 +29,7 @@ $locale['444'] = "Cancella";
 $locale['445'] = "Nessuna categoria articoli &egrave; stata definita";
 // Delete Article category
 $locale['450'] = "Cancellare questa categoria articoli?";
+// Error Messages
+$locale['460'] = "Attenzione, devi specificare il nome della categoria";
+$locale['461'] = "Attenzione, una categoria con lo stesso nome &egrave; gi&agrave; presente.";
 ?>

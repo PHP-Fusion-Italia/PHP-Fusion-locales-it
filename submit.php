@@ -25,6 +25,7 @@ $locale['474'] = "Anteprima notizia";
 $locale['475'] = "Invia notizia";
 $locale['476'] = "Categoria:";
 $locale['477'] = "- Nussuna -";
+$locale['478'] = "Riassunto Notizie:";
 // Submit Article
 $locale['500'] = "Invia articolo";
 // Submit Article Success
@@ -41,7 +42,8 @@ $locale['526'] = "Anteprima articolo";
 $locale['527'] = "Invia articolo";
 // Submit Error
 $locale['550'] = "Per favore completa i campi";
-$locale['551'] = "Non sono ancora state definite delle categorie";
+$locale['551'] = "Non sono ancora presenti delle categorie.";
+$locale['552'] = "Non sono ancora presenti degli album.";
 // Submit Photo
 $locale['570'] = "Invia Immagine";
 // Submit Photo Success
@@ -61,4 +63,41 @@ $locale['623'] = "Immagine: ";
 $locale['624'] = "Dimensioni massime: %s / %ux%u pixels";
 $locale['625'] = "Album:";
 $locale['626'] = "Invia immagine";
+// Submit Download
+$locale['650'] = "Proponi download";
+// Submit Download Success
+$locale['660'] = "Grazie per averci proposto il tuo download";
+$locale['661'] = "Proponi un altro download";
+// Submit Download Error
+$locale['670'] = "La tua proposta non pu&ograve; essere accettata";
+$locale['671'] = "Nome file non valido.";
+$locale['671a'] = "Nome file immagine non valida.";
+$locale['672'] = "Il file non deve avere dimensioni superiori a %s.";
+$locale['672a'] = "L&#39;immagine non deve avere dimensioni superiori a %s.";
+$locale['672b'] = "L&#39;immagine non pu&ograve; essere pi&ugrave; di %s.";
+$locale['673'] = "Le estensioni consentite sono: %s.";
+$locale['673a'] = "I formati immagine consentiti sono: %s.";
+$locale['674'] = "Il campo titolo &egrave obbligatorio.";
+$locale['675'] = "Il campo file o indirizzo &egrave; obbligatorio.";
+$locale['676'] = "Il campo descrizione breve &egrave; obbligatorio.";
+$locale['676a'] = "Errore interno. Contatta l&#39;amministratore.";
+// Submit Download Form
+$locale['680'] = "Utilizza il form seguente per proporre un nuovo download. La tua richiesta sar&agrave; valutata da un amministratore. ".$settings['sitename']." si riserva il diritto di rifiutare o modificare in parte il contenuto della tua proposta, senza garanzia alcuna.";
+$locale['681'] = "Titolo:";
+$locale['682'] = "Descrizione:";
+$locale['682b'] = "Descrizione breve:";
+$locale['683'] = "URL:";
+$locale['684'] = "o File:";
+$locale['685'] = "Calcola automaticamente dimensione file";
+$locale['686'] = "Anteprima:";
+$locale['687'] = "Categoria:";
+$locale['688'] = "Licenza:";
+$locale['689'] = "Piattaforma:";
+$locale['690'] = "Versione:";
+$locale['691'] = "Homepage:";
+$locale['692'] = "Copyright:";
+$locale['693'] = "Dimensione file:";
+$locale['694'] = "Dimensione massima: %s / Tipi di file consentiti: %s";
+$locale['694b'] = $locale['694']." / Larghezza massima: %spx, Altezza massima: %spx";
+$locale['695'] = "Proponi download";
 ?>

@@ -24,6 +24,8 @@ $locale['512'] = "Il forum non pu&ograve; essere eliminato";
 $locale['513'] = "Ci sono argomenti collegati con questa categoria";
 $locale['514'] = "Forum eliminato";
 $locale['515'] = "Moderatori forum aggiornati";
+$locale['516'] = "Per favore inserisci il nome della categoria.";
+$locale['517'] = "Per favore inserisci il nome del forum.";
 // Add/Edit Forum Form
 $locale['520'] = "Nome forum:";
 $locale['521'] = "Descrizione forum:";
@@ -33,13 +35,19 @@ $locale['524'] = "Privilegi forum";
 $locale['525'] = "Accesso forum:";
 $locale['526'] = "Aprire nuovi argomenti:";
 $locale['527'] = "Inviare risposte:";
-$locale['528'] = "Allegare files:";
+$locale['528'] = "Allega file:";
 $locale['529'] = "Creare sondaggio:";
 $locale['530'] = "Votare:";
 $locale['531'] = "Disabilitato";
 $locale['532'] = "Salva forum";
 $locale['533'] = "Moderatori Forum";
 $locale['534'] = "Salva foderatori forum";
+$locale['535'] = "Download allegati:";
+// Forum Settings
+$locale['540'] = "Opzioni forum:";
+$locale['541'] = "Fusione post:";
+$locale['542'] = "Abilitato";
+$locale['543'] = "Disabilitato";
 // Current Forums
 $locale['550'] = "Forum presenti";
 $locale['551'] = "Categoria/Forum";
@@ -69,6 +77,6 @@ $locale['607'] = "Mesi";
 $locale['608'] = "Pulizia forum completata.";
 $locale['609'] = "Messaggi eliminati: ";
 $locale['610'] = "Allegati eliminati: ";
-$locale['611'] = "Argomenti eliminate: ";
+$locale['611'] = "Argomenti eliminati: ";
 $locale['612'] = "Argomenti, messaggi e allegati saranno persi. Sei sicuro di voler pulire questo Forum?";
 ?>

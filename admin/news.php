@@ -31,9 +31,13 @@ $locale['435'] = "Abilita valutazioni";
 $locale['436'] = "Anteprima notizia";
 $locale['437'] = "Salva notizia";
 $locale['438'] = "[BOZZA]";
-$locale['439'] = "Immagine News";
+$locale['439'] = "Immagini Notizie";
 $locale['440'] = "Dimensione massima: %s / Formati consentiti: GIF, JPEG o PNG.";
 // Popup Error/Warning Messages
 $locale['450'] = "Specifica un oggetto";
 $locale['451'] = "Cancellare questa notizia?";
+$locale['452'] = "%s sono disabilitati per tutti gli elementi.<br />Questa opzione avranno effetto solo quando verr&agrave; riabilitata.";
+$locale['453'] = "Commenti";
+$locale['454'] = "Valutazioni";
+$locale['455'] = $locale['453']." e ".$locale['454'];
 ?>

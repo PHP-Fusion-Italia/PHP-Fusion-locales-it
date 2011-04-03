@@ -34,4 +34,8 @@ $locale['544'] = "Nessuna FAQ &egrave; stata aggiunta.";
 $locale['545'] = "Nessuna categoria FAQ &egrave; stata definita.";
 $locale['546'] = "Cancellare questa categoria FAQ?";
 $locale['547'] = "Cancellare questa FAQ?";
+// Error Messages
+$locale['460'] = "Attenzione, devi specificare il nome della categoria";
+$locale['461'] = "Attenzione, una categoria con lo stesso nome &egrave; gi&agrave; presente.";
+$locale['462'] = "Attenzione, devi inserire sia la domanda che la risposta";
 ?>

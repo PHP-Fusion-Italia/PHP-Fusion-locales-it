@@ -1,20 +1,5 @@
 <?php
-
-
-/*-------------------------------------------------------+
-| Name CMS	: PHP-Fusion CMS v7.00.07
-| File Directory	: root/locale/Italian/user_fields/
-| File Name	: user_theme.php
-| File Type		: language Italian
-| Version		: 1.00.00
-| Author		: Italian Staff PHP-Fusion Italy
-| Last Update	: 9 marzo 2010
-| Copyright©	: 2002 - 2010 Nick Jones
-| Web URL	: http://www.php-fusion.co.uk/
-+--------------------------------------------------------*/
-
 $locale['uf_theme'] = "Tema";
-
-$locale['uf_theme_desc'] = "Permetti agli utenti di scegliere il tema";
-
+$locale['uf_theme_desc'] = "Permette agli utenti di scegliere il proprio tema";
+$locale['uf_theme_error'] = "Il tema non pu&ograve; essere lasciato vuoto.";
 ?>

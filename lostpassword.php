@@ -21,4 +21,5 @@ La tua nuova password per accedere al tuo account ".$settings['sitename']." &egr
 [NEW_PASS]\n
 Saluti,
 ".$settings['siteusername'];
+$locale['412'] = "Si &egrave; verificato un errore, riprova.";
 ?>

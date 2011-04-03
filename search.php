@@ -42,7 +42,7 @@ $locale['510'] = "corrispondenze nella ricerca di tutto il sito";
 //
 $locale['520'] = "corrispondenza";
 $locale['521'] = "corrispondenze";
-$locale['522'] = "";
+$locale['522'] = "trovate corrispondenze con i criteri di ricerca inseriti";
 //more than 100 results
 $locale['530'] = "Hai utilizzato termini troppo generici nella tua ricerca, cerca di essere pi&ugrave; preciso. Vengono mostrati solo i primi 100 risultati su %s corrispondenze";
 ?>
