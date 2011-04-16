@@ -1,6 +1,6 @@
 <?php
 // Delete Thread
-$locale['400'] = "CElimina Argomento";
+$locale['400'] = "Elimina Argomento";
 $locale['401'] = "L&#39;argomento &egrave; stato eliminato.";
 $locale['402'] = "Torna al Forum";
 $locale['403'] = "Torna all&#39;indice del Forum";
