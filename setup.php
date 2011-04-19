@@ -2,8 +2,6 @@
 $locale['title'] = "Installazione PHP-Fusion 7 Core Edition";
 $locale['sub-title'] = "Localizzazione italiana";
 $locale['charset'] = "iso-8859-1";
-$locale['mysql_charset'] = "latin1";
-$locale['mysql_collate'] = "latin1_swedish_ci";
 $locale['xml_lang'] = "it";
 $locale['401'] = "Impossibile stabilire una connessione con il database.<br /><br />
 Assicurati di aver inserito i dati correttamente.";

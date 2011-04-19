@@ -33,6 +33,8 @@ $locale['429'] = "Path:";
 $locale['430'] = "Porta:";
 $locale['431'] = "Anteprima:";
 $locale['432'] = "Altre opzioni";
+$locale['433'] = "miosito.it";
+$locale['434'] = "sottocartella";
 // Time & Date Settings
 $locale['450'] = "Ora e Data";
 $locale['451'] = "Data in formato corto:";
@@ -202,6 +204,8 @@ $locale['933'] = "Separa con una virgola";
 $locale['934'] = "Dimensione Max screenshot:";
 $locale['935'] = "Larghezza x Altezza";
 $locale['936'] = "Dimensione file Max screenshot (bytes):";
+$locale['937'] = "Dimensione massima anteprima screenshot:";
+$locale['938'] = "Mostra screenshot?";
 // News Settings
 $locale['950'] = "Invia Immagine";
 $locale['951'] = "Link Immagine:";

@@ -25,7 +25,6 @@ $locale['u061'] = "Aggiungi al gruppo";
 $locale['u062'] = "Avatar";
 $locale['u063'] = "Livello utente";
 $locale['u064'] = "Email";
-$locale['u065'] = "Nessuna visita.";
 $locale['u066'] = "Data iscrizione";
 $locale['u067'] = "Ultima visita";
 $locale['u068'] = "Nome utente";

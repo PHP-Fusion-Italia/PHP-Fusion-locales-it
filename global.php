@@ -2,11 +2,19 @@
 // Locale Settings
 setlocale(LC_TIME, "it_IT.UTF-8", "it_IT", "it", "IT");
 $locale['charset'] = "iso-8859-1";
-$locale['mysql_charset'] = "latin1";
-$locale['mysql_collate'] = "latin1_swedish_ci";
 $locale['xml_lang'] = "it";
 $locale['tinymce'] = "it";
 $locale['phpmailer'] = "it";
+$locale['recaptcha'] = "it";
+$locale['recaptcha_l10n'] = "instructions_visual : 'Trascrivi le due parole:', ";
+$locale['recaptcha_l10n'] .= "instructions_audio : 'Trascrivi ci\u00f2 che senti:', ";
+$locale['recaptcha_l10n'] .= "play_again : 'Riascolta la traccia audio', ";
+$locale['recaptcha_l10n'] .= "cant_hear_this : 'Scarica la traccia in formato MP3', ";
+$locale['recaptcha_l10n'] .= "visual_challenge : 'Modalit\u00e0 visiva', ";
+$locale['recaptcha_l10n'] .= "audio_challenge : 'Modalit\u00e0 auditiva', ";
+$locale['recaptcha_l10n'] .= "refresh_btn : 'Chiedi due nuove parole', ";
+$locale['recaptcha_l10n'] .= "help_btn : 'Aiuto', ";
+$locale['recaptcha_l10n'] .= "incorrect_try_again : 'Codice non corretto. Riprova.', ";
 // Full & Short Months
 $locale['months'] = " |Gennaio|Febbraio|Marzo|Aprile|Maggio|Giugno|Luglio|Agosto|Settembre|Ottobre|Novembre|Dicembre";
 $locale['shortmonths'] = " |Gen|Feb|Mar|Apr|Mag|Giu|Lug|Ago|Sett|Ott|Nov|Dic";
