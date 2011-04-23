@@ -161,6 +161,11 @@ $locale['693'] = "Captcha";
 $locale['694'] = "Chiave Pubblica Recaptcha (<a href='https://www.google.com/recaptcha/admin/create' title='Genera la tua chiave qui'>Genera la tua chiave</a>)";
 $locale['695'] = "Chiave Pubblica Recaptcha";
 $locale['696'] = "Inserisci la tua chiave pubblica e quella privata reCAPTCHA!";
+$locale['697'] = "Scegli uno schema di colori";
+$locale['697r'] = "Rosso";
+$locale['697b'] = "Nero vitreo";
+$locale['697c'] = "Pulito";
+$locale['697w'] = "Bianco";
 
 // Private Message Settings
 $locale['700'] = "Messaggi Privati";
