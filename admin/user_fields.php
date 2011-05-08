@@ -9,6 +9,7 @@ $locale['405'] = "Sopra";
 $locale['406'] = "Sotto";
 $locale['407'] = "Modifica";
 $locale['408'] = "Disabilita";
+$locale['409'] = "Aggiorna ordinamento campi utente.";
 // Enable / Edit User Field
 $locale['420'] = "Modifica Campi Utente";
 $locale['421'] = "Abilita Campi Utente";
