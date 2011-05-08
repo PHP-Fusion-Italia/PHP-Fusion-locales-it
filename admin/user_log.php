@@ -18,4 +18,5 @@ $locale['115'] = "Campo utente:";
 $locale['116'] = "Cancella";
 $locale['117'] = "Opzioni";
 $locale['118'] = "Tutte le voci pi&ugrave; vecchie di %d giorni saranno cancellate.";
+$locale['119'] = "Voce nel registro utente rimossa.";
 ?>

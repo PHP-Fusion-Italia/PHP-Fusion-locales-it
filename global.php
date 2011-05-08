@@ -233,4 +233,6 @@ $locale['global_500'] = "Stai per essere reindirizzato su %s, attendi. Se non vi
 // Captcha Locales
 $locale['global_600'] = "Codice di validazione";
 
+//Miscellaneous
+$locale['global_900'] = "Conversione da HEX a DEC fallita";
 ?>

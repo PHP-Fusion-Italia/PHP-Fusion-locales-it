@@ -21,6 +21,7 @@ $locale['425'] = "Commenti";
 $locale['426'] = "Valutazione";
 $locale['427'] = "Calendario";
 $locale['428'] = "Info";
+$locale['429'] = "Statistiche";
 // Downloads Notices
 $locale['430'] = "Non &egrave; stata ancora definita alcuna Categoria Downloads";
 $locale['431'] = "Non &egrave; stato inserito alcun Download in questa Categoria";

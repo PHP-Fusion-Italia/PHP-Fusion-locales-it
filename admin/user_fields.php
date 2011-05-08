@@ -36,4 +36,5 @@ $locale['450'] = "Contatto";
 $locale['451'] = "Informazioni";
 $locale['452'] = "Opzioni";
 $locale['453'] = "Statistiche";
+$locale['480'] = "Registrazione";
 ?>

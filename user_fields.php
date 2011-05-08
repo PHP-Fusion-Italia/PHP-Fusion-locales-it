@@ -80,11 +80,14 @@ $locale['u143a'] = " non possono essere vuote.";
 $locale['u144'] = "Nuova password amministrativa";
 $locale['u145'] = "Conferma password amministrativa";
 $locale['u146'] = " non pu&ograve; essere la stessa che hai gi&agrave; configurato come ";
-$locale['u147'] = "Una Password &egrave; composta da 8 a 64 caratteri.<br />I caratteri permessi sono: a-z, 0-9 e @!#$%&\/()=-_?+*.,:;";
+$locale['u147'] = "Una Password &egrave; composta da 8 a 64 caratteri.
+I caratteri permessi sono: a-z, 0-9 e @!#$%&\/()=-_?+*.,:;";
 $locale['u148'] = "La conferma della nuova password di login risulta errata.";
 $locale['u148a'] = "La conferma della nuova password amministrativa risulta errata.";
 $locale['u149'] = "La tua password di login attuale non &egrave; corretta.";
 $locale['u149a'] = "La tua password amministrativa attuale non &egrave; corretta.";
+$locale['u149b'] = "La tua password di login attuale non &egrave; stata specificata o non &egrave; corretta.
+Per poter cambiare la password amministrativa &egrave; necessario inserire anche la tua password di login corretta.";
 
 // Email actiation
 $locale['u150'] = "La tua registrazione &egrave; quasi completata, riceverai una email di conferma contenente un link per attivare definitivamente il tuo account.";
