@@ -99,8 +99,8 @@ Password: USER_PASSWORD\n
 Puoi attivare definitivamente il tuo account clickando sul seguente link: ACTIVATION_LINK\n\n
 A presto,
 ".$settings['sitename'];
-$locale['u153'] = "L&#39; di attivazione non pu&ograve; essere inviata. Contatta l&#39;amministratore.";
-$locale['u154'] = "Per favore provvedi a contattare l&#39;<a href='mailto:".$settings['siteemail']."'>amministratore</a>.";
+$locale['u153'] = "L&#39;email di attivazione non pu&ograve; essere inviata. Contatta l&#39;amministratore.";
+$locale['u154'] = "Si prega di <a href='".BASEDIR."contact.php'>contattare</a> l&#39;amministratore del sito.";
 $locale['u155'] = "Attiva account";
 $locale['u156'] = "Specifica la tua password attuale per poter modificare l&#39;indirizzo email.";
 

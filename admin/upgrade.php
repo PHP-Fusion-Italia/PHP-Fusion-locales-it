@@ -20,10 +20,10 @@ $locale['443'] = "Log utente";
 $locale['444'] = "Reimposta password amministrativa";
 $locale['445'] = "Log errori";
 // Upgrade locales
-$locale['500'] = "Un aggiornamento %s &egrave; per il database di PHP-Fusion.";
+$locale['500'] = "Un aggiornamento %s &egrave; disponibile per il database di PHP-Fusion.";
 $locale['501'] = "Fai click su Aggiorna per effettuare l'aggiornamento (&egrave; sempre buona idea fare un backup del database prima di procedere).";
 $locale['502'] = "Aggiornamento del database completato con successo.";
 $locale['503'] = "importante";
 $locale['504'] = "minore";
-$locale['600'] = "Il tuo config.php deve esser aggiornato, per favore sostituiscilo con:";
+$locale['505'] = "Il tuo config.php deve esser aggiornato, per favore sostituiscilo con:";
 ?>
