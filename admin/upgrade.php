@@ -25,5 +25,7 @@ $locale['501'] = "Fai click su Aggiorna per effettuare l'aggiornamento (&egrave;
 $locale['502'] = "Aggiornamento del database completato con successo.";
 $locale['503'] = "importante";
 $locale['504'] = "minore";
-$locale['505'] = "Il tuo config.php deve esser aggiornato, per favore sostituiscilo con:";
+$locale['505'] = "Sostituisci queste righe con le linee nel tuo config.php!";
+// Cookie Prefix
+$locale['600'] = "Il tuo config.php deve esser aggiornato, per favore sostituiscilo con:";
 ?>
