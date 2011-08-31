@@ -25,7 +25,7 @@ $locale['513'] = "Ci sono argomenti collegati con questa categoria";
 $locale['514'] = "Forum eliminato";
 $locale['515'] = "Moderatori forum aggiornati";
 $locale['516'] = "Per favore inserisci il nome della categoria.";
-$locale['517'] = "Per favore inserisci il nome del forum.";
+$locale['517'] = "Per favore inserisci il nome univoco del forum.";
 // Add/Edit Forum Form
 $locale['520'] = "Nome forum:";
 $locale['521'] = "Descrizione forum:";
