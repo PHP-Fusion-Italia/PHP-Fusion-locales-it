@@ -53,7 +53,7 @@ $locale['055'] = "Assicurati che l'utente usare per l'accesso al database MySQL 
 $locale['056'] = "Svuota campi.";
 $locale['057'] = "Assicurati di aver compilato tutto i campi per la connesione del database MySQL.";
 // Step 5 - Super Admin login
-$locale['060'] = "Dettagli profilo amministrativo principale" // "Dettagli login Super Amministratore Primario"; // Primary Super Admin login details
+$locale['060'] = "Dettagli profilo amministrativo principale"; // "Dettagli login Super Amministratore Primario"; // Primary Super Admin login details
 $locale['061'] = "Nome utente:";
 $locale['062'] = "Password di accesso:";
 $locale['063'] = "Ripeti la password di accesso:";
