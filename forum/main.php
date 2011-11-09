@@ -62,6 +62,7 @@ $locale['513'] = "Disabilita Smileys";
 $locale['513a'] = "Mostra la mia Firma in questo Post";
 $locale['513b'] = "Inviami notifica quando viene inserita una risposta";
 $locale['514'] = "Invia Risposta";
+$locale['514a'] = "Anteprima";
 $locale['515'] = "Smetti di seguire l&#39;argomento";
 $locale['516'] = "Segui questo Argomento";
 $locale['517'] = "Cancella messaggi";

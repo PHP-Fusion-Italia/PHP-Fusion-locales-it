@@ -121,6 +121,7 @@ $locale['652'] = "Inserisci una parola per ogni rigo.";
 $locale['653'] = "Lascia vuoto se non richiesto.";
 $locale['654'] = "Sostituzione parole indesiderate:";
 $locale['655'] = "Permetti ai visitatori di inviare messaggi?";
+$locale['656'] = "Abilitare avatar nei commenti?";
 $locale['657'] = "Modalit&agrave; Manutenzione:";
 $locale['658'] = "Messaggio di Modalit&agrave; Manutenzione:";
 $locale['659'] = "Filtro parole indesiderate abilitato?";
@@ -237,6 +238,8 @@ $locale['1010'] = "Dimensione massima immagine (bytes):";
 $locale['1011'] = "Azione Disattivazione:";
 $locale['1012'] = "Rendi Anonimo Utente";
 $locale['1013'] = "Cancella Utente";
+$locale['1014'] = "Gli utenti possono loggarsi contemporaneamente da postazioni diverse?";
+$locale['1014a'] = "Disabilita per maggior sicurezza.";
 // Date format options (you can add/delete lines)
 // More info at: http://php.net/manual/en/function.strftime.php
 $locale['dateformats'][] = "%m/%d/%Y";
