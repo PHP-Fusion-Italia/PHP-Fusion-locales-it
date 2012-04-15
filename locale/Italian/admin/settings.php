@@ -167,6 +167,7 @@ $locale['697r'] = "Rosso";
 $locale['697b'] = "Nero vitreo";
 $locale['697c'] = "Pulito";
 $locale['697w'] = "Bianco";
+$locale['698'] = "Autenticazione SMTP?";
 
 // Private Message Settings
 $locale['700'] = "Messaggi Privati";

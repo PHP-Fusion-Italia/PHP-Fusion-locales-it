@@ -33,6 +33,7 @@ $locale['437'] = "Salva notizia";
 $locale['438'] = "[BOZZA]";
 $locale['439'] = "Immagini Notizie";
 $locale['440'] = "Dimensione massima: %s / Formati consentiti: GIF, JPEG o PNG.";
+$locale['441'] = "Interruzione di pagina"; // Interruzione di pagina
 // Popup Error/Warning Messages
 $locale['450'] = "Specifica un oggetto";
 $locale['451'] = "Cancellare questa notizia?";

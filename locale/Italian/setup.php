@@ -125,6 +125,7 @@ $locale['127'] = "Download"; // Downloads Settings
 $locale['128'] = "Reimposta password amministrativa";
 $locale['129'] = "Registro errori";
 $locale['129a'] = "Registro utenti";
+$locale['129b'] = "robots.txt";
 // Step 6 - Navigation Links
 $locale['130'] = "Home";
 $locale['131'] = "Articoli";

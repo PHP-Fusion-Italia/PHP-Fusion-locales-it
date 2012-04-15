@@ -73,4 +73,6 @@ $locale['262'] = "Utenti attivi:";
 $locale['263'] = "Utenti cancellati:";
 $locale['264'] = "Utenti inattivi:";
 $locale['265'] = "Download ricevuti:";
+$locale['266'] = "Registro utenti";
+$locale['267'] = "robots.txt";
 ?>

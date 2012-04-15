@@ -20,6 +20,7 @@ $locale['427'] = "Abilita commenti";
 $locale['428'] = "Abilita valutazioni";
 $locale['429'] = "Anteprima pagina";
 $locale['430'] = "Salva pagina";
+$locale['431'] = "Interruzione di pagina"; // Interruzione di pagina
 // Popup errors / warning messages
 $locale['450'] = "Cancellare questa pagina personale?";
 $locale['451'] = "Specifica un titolo per la pagina";
