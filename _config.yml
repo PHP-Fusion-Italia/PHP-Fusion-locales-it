@@ -1,0 +1,8 @@
+title: PHP-Fusion Italia
+description: Traduzione italiana di PHP-Fusion 7
+google_analytics: UA-107557-4
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
